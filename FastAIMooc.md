@@ -23,7 +23,13 @@ Start with a batch norm layer (Lesson 4 58:30)
 1. Use data augmentation
 1. Use architectures that generalize well
 1. Add regularization
+  1. Add some norm of weights to loss function
 1. Reduce architecture complexity.
+
+#NLP
+1. Word vectors, embeddings on words
+1. Tokenization matters (. 's etc.)
+
 
 #Random
 * Asking people about their behaviour is crap compared to looking at their behaviour
