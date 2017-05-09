@@ -10,6 +10,13 @@
 # Keras
 pip install keras #installs tensorflow cpu
 
+## tricks
+ 1. Use workers with generators to speed up training [1]
+ 
+ 
+ [1]: https://github.com/kzuiderveld/deeplearning1/blob/master/Improving%20training%20speeds%20using%20Keras%202.ipynb
+ 
+
 # Tensorflow
   1. pip install tensorflow-gpu
   2. run and check output 
@@ -17,5 +24,9 @@ pip install keras #installs tensorflow cpu
 
 # Theano
 
-#Various
-##
+# Various
+
+## BColz
+## Pandas
+## TQDM
+TQDMNotebookCallback for progressbars!
