@@ -17,10 +17,10 @@ kaggle cli
 1. [Cyclical Learning Rates for Training Neural Networks][3]
 
 
-#Input normalization
+# Input normalization
 Start with a batch norm layer (Lesson 4 58:30)
 
-#Avoiding overfitting
+# Avoiding overfitting
 1. Add more data
 1. Use data augmentation
 1. Use architectures that generalize well
@@ -28,13 +28,13 @@ Start with a batch norm layer (Lesson 4 58:30)
   1. Add some norm of weights to loss function
 1. Reduce architecture complexity.
 
-#NLP
+# NLP
 1. Word vectors, embeddings on words
 1. Tokenization matters (. 's etc.)
 1. Word2Vec
 
 
-#Random
+# Random
 * Asking people about their behaviour is crap compared to looking at their behaviour
 
 # Overview
