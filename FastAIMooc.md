@@ -47,6 +47,7 @@ Start with a batch norm layer (Lesson 4 58:30)
 1. Spearmint hyperparameter tuning
 1. Latent factors
 1. checkboard pattern deconv
+1. Entity nets [5]
 
 [Training Deep Neural Networks on Noisy Labels with Bootstrapping][1]
 
@@ -55,3 +56,6 @@ Start with a batch norm layer (Lesson 4 58:30)
 [3]: https://arxiv.org/abs/1506.01186
 [4]: https://arxiv.org/abs/1606.02228
 [5]: https://arxiv.org/abs/1611.00847
+[5]: https://arxiv.org/abs/1612.03969
+
+
