@@ -38,3 +38,11 @@ Start with a batch norm layer (Lesson 4 58:30)
 1. Pseudolabeling (Geoffry Hinton) Distilling knowledge
 1. Spearmint hyperparameter tuning
 1. Latent factors
+
+[Training Deep Neural Networks on Noisy Labels with Bootstrapping][1]
+[An Analysis of Deep Neural Network Models for Practical Applications][2]
+[Cyclical Learning Rates for Training Neural Networks][3]
+
+[1]: https://arxiv.org/abs/1412.6596
+[2]: https://arxiv.org/abs/1605.07678
+[3]: https://arxiv.org/abs/1506.01186
